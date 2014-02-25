@@ -21,7 +21,11 @@ video.png: video-9cd337fd890c2ee8c32438d54b6e106f.png
 video/index.png: video-9cd337fd890c2ee8c32438d54b6e106f.png
 application.js: application-4b59e68857fc49f488cdac8a0ea3d298.js
 application/index.js: application-4b59e68857fc49f488cdac8a0ea3d298.js
+cufon-yui.js: cufon-yui-99bf3518c254d46e3b5e707e2e71baeb.js
+cufon-yui/index.js: cufon-yui-99bf3518c254d46e3b5e707e2e71baeb.js
 application.css: application-a79e3e9243322043cb92065a24fdaf7e.css
 application/index.css: application-a79e3e9243322043cb92065a24fdaf7e.css
+style.css: style-a79e3e9243322043cb92065a24fdaf7e.css
+style/index.css: style-a79e3e9243322043cb92065a24fdaf7e.css
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
