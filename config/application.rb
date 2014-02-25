@@ -61,6 +61,6 @@ module Eljuegodelaciencia
 
  # HPNeo fix 2
     config.assets.initialize_on_precompile = false
-    config.assets.precompile += %w(active_admin.css active_admin/print.css active_admin.js)
+    #config.assets.precompile += %w(active_admin.css active_admin/print.css active_admin.js)
   end
 end
