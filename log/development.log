@@ -11136,3 +11136,9 @@ Served asset /jquery.min.js - 304 Not Modified (0ms)
 
 Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-02-27 00:52:14 -0500
 Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-02-27 01:08:40 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 5040)
+Served asset /jquery.min.js - 304 Not Modified (29ms)
