@@ -11075,3 +11075,9 @@ Served asset /social.png - 304 Not Modified (0ms)
 
 Started GET "/assets/video.png" for 127.0.0.1 at 2014-02-25 16:35:00 -0500
 Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-02-26 23:39:21 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 3704)
+Served asset /jquery.min.js - 200 OK (7ms)
