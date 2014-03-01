@@ -11,8 +11,10 @@ go.png: go-5049821e6091c08865936e3bb38384d3.png
 go/index.png: go-5049821e6091c08865936e3bb38384d3.png
 logoEJDC-neurona--CMYK.png: logoEJDC-neurona--CMYK-ab4dff2eb8a5934396ce613954e606c0.png
 logoEJDC-neurona--CMYK/index.png: logoEJDC-neurona--CMYK-ab4dff2eb8a5934396ce613954e606c0.png
-logoMain.png: logoMain-7e595287b21e9b6243bd4d631b36cccb.png
-logoMain/index.png: logoMain-7e595287b21e9b6243bd4d631b36cccb.png
+logoMain.png: logoMain-356bfa0453fc83494491fafc8c788b2d.png
+logoMain/index.png: logoMain-356bfa0453fc83494491fafc8c788b2d.png
+logoMainOLD.png: logoMainOLD-7e595287b21e9b6243bd4d631b36cccb.png
+logoMainOLD/index.png: logoMainOLD-7e595287b21e9b6243bd4d631b36cccb.png
 rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 social.png: social-eb74341f9c8597a0def71e4ad7975f90.png
