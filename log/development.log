@@ -11142,3 +11142,205 @@ Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-02-27 01:08:40 -0500
 Connecting to database specified by database.yml
 Compiled jquery.min.js  (1ms)  (pid 5040)
 Served asset /jquery.min.js - 304 Not Modified (29ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:43:01 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (5ms)  (pid 20450)
+Served asset /jquery.min.js - 200 OK (95ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:45:21 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (5ms)  (pid 20599)
+Served asset /jquery.min.js - 304 Not Modified (33ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:45:48 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:47:30 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (5ms)  (pid 20715)
+Served asset /jquery.min.js - 304 Not Modified (33ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:47:47 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:48:02 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:49:57 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (5ms)  (pid 20853)
+Served asset /jquery.min.js - 304 Not Modified (126ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:50:22 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:55:14 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (5ms)  (pid 21148)
+Served asset /jquery.min.js - 304 Not Modified (33ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:55:46 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:57:26 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (5ms)  (pid 21286)
+Served asset /jquery.min.js - 304 Not Modified (33ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-01 18:58:08 -0500
+Compiled style.css  (1ms)  (pid 21286)
+Served asset /style.css - 200 OK (58ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:58:08 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-01 18:58:08 -0500
+Compiled cufon-yui.js  (1ms)  (pid 21286)
+Served asset /cufon-yui.js - 200 OK (36ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-01 18:58:08 -0500
+Served asset /background.jpg - 200 OK (34ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-01 18:58:09 -0500
+Served asset /logoMain.png - 200 OK (23ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-01 18:58:09 -0500
+Served asset /social.png - 200 OK (11ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-01 18:58:09 -0500
+Served asset /video.png - 200 OK (16ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Compiled style.css  (0ms)  (pid 21286)
+Served asset /style.css - 200 OK (61ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Served asset /background.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Served asset /logoMain.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Served asset /social.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-01 18:58:37 -0500
+Served asset /video.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Compiled style.css  (12ms)  (pid 21286)
+Served asset /style.css - 200 OK (38ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Served asset /background.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Served asset /logoMain.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Served asset /video.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-01 18:58:55 -0500
+Served asset /social.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Compiled style.css  (0ms)  (pid 21286)
+Served asset /style.css - 200 OK (34ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Served asset /background.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Served asset /logoMain.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Served asset /social.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-01 18:59:09 -0500
+Served asset /video.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Compiled style.css  (5ms)  (pid 21286)
+Served asset /style.css - 200 OK (33ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Served asset /background.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Served asset /logoMain.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Served asset /social.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-01 18:59:25 -0500
+Served asset /video.png - 304 Not Modified (0ms)
