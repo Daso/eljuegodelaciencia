@@ -11142,3 +11142,715 @@ Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-02-27 01:08:40 -0500
 Connecting to database specified by database.yml
 Compiled jquery.min.js  (1ms)  (pid 5040)
 Served asset /jquery.min.js - 304 Not Modified (29ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 12:51:54 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (2ms)  (pid 4471)
+Served asset /jquery.min.js - 304 Not Modified (92ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 12:54:14 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 12:57:01 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 12:58:24 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 12:59:15 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:03:41 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 4606)
+Served asset /jquery.min.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:04:38 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 4646)
+Served asset /jquery.min.js - 304 Not Modified (32ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:12:23 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 4702)
+Served asset /jquery.min.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:13:41 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:16:15 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 4768)
+Served asset /jquery.min.js - 304 Not Modified (34ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Compiled cufon-yui.js  (0ms)  (pid 4768)
+Served asset /cufon-yui.js - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (7ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Served asset /background.jpg - 200 OK (8ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Served asset /social.png - 200 OK (3ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Served asset /logoMain.png - 200 OK (3ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:16:45 -0500
+Served asset /video.png - 200 OK (3ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (17ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:17:02 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:18:15 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (15ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:18:15 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:18:15 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:18:16 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:18:16 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:18:16 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:18:16 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (13ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:24:19 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:24:38 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (14ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:24:38 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:24:38 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:24:39 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:24:39 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:24:39 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:24:39 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (17ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:25:15 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:26:18 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (47ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:27:01 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (13ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:28:35 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:34:58 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (12ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:35:08 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (17ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:35:29 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (21ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:36:39 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:36:51 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:57:56 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (12ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:58:07 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:58:32 -0500
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:58:32 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:58:32 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (13ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:58:55 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 13:59:17 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (13ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 13:59:17 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 13:59:17 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 13:59:18 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 13:59:18 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 13:59:18 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 13:59:18 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 14:00:02 -0500
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 14:00:02 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 14:00:02 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 14:00:11 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (11ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 14:00:22 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (15ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Served asset /social.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 14:06:21 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/style.css" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Compiled style.css  (0ms)  (pid 4768)
+Served asset /style.css - 200 OK (59ms)
+
+
+Started GET "/assets/cufon-yui.js" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Served asset /cufon-yui.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Served asset /background.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/logoMain.png" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Served asset /logoMain.png - 200 OK (0ms)
+
+
+Started GET "/assets/video.png" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Served asset /video.png - 200 OK (0ms)
+
+
+Started GET "/assets/social.png" for 127.0.0.1 at 2014-03-10 14:07:02 -0500
+Served asset /social.png - 200 OK (0ms)
