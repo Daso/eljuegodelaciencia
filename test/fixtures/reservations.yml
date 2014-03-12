@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  cost: 
+  avariability: 1
+  date: 2014-03-12 02:31:59
+
+two:
+  cost: 
+  avariability: 1
+  date: 2014-03-12 02:31:59

@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Cost:</b>
+  <%= @reservation.cost %>
+</p>
+
+<p>
+  <b>Avariability:</b>
+  <%= @reservation.avariability %>
+</p>
+
+<p>
+  <b>Date:</b>
+  <%= @reservation.date %>
+</p>
+
+
+<%= link_to 'Edit', edit_reservation_path(@reservation) %> |
+<%= link_to 'Back', reservations_path %>

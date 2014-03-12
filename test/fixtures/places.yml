@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  addres: MyString
+  district_id: 1
+  availability: 1
+
+two:
+  addres: MyString
+  district_id: 1
+  availability: 1

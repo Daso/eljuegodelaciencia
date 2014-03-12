@@ -11,6 +11,38 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 0) do
+ActiveRecord::Schema.define(:version => 20140312073159) do
+
+  create_table "experiments", :force => true do |t|
+    t.string   "name"
+    t.decimal  "cost",        :precision => 5, :scale => 2
+    t.text     "description"
+    t.datetime "created_at",                                :null => false
+    t.datetime "updated_at",                                :null => false
+  end
+
+  create_table "parties", :force => true do |t|
+    t.string   "name"
+    t.decimal  "cost"
+    t.text     "description"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+  end
+
+  create_table "places", :force => true do |t|
+    t.string   "address"
+    t.integer  "district_id"
+    t.integer  "availability"
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
+  end
+
+  create_table "reservations", :force => true do |t|
+    t.decimal  "cost",         :precision => 5, :scale => 2
+    t.integer  "avariability"
+    t.datetime "date"
+    t.datetime "created_at",                                 :null => false
+    t.datetime "updated_at",                                 :null => false
+  end
 
 end

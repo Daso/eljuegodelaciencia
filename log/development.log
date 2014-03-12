@@ -12634,3 +12634,85 @@ Served asset /fullcalendar.js - 304 Not Modified (0ms)
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2014-03-11 13:56:10 -0500
 Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-12 01:45:17 -0500
+Connecting to database specified by database.yml
+Compiled jquery.min.js  (1ms)  (pid 4819)
+Served asset /jquery.min.js - 304 Not Modified (32ms)
+
+
+Started GET "/assets/fullcalendar.css" for 127.0.0.1 at 2014-03-12 01:45:23 -0500
+Compiled fullcalendar.css  (2ms)  (pid 4819)
+Served asset /fullcalendar.css - 304 Not Modified (75ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2014-03-12 01:45:23 -0500
+Compiled jquery.js  (2ms)  (pid 4819)
+Served asset /jquery.js - 304 Not Modified (83ms)
+
+
+Started GET "/assets/fullcalendar.js" for 127.0.0.1 at 2014-03-12 01:45:23 -0500
+Compiled fullcalendar.js  (1ms)  (pid 4819)
+Served asset /fullcalendar.js - 304 Not Modified (172ms)
+
+
+Started GET "/assets/fullcalendar.css" for 127.0.0.1 at 2014-03-12 01:45:28 -0500
+Served asset /fullcalendar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.js" for 127.0.0.1 at 2014-03-12 01:45:28 -0500
+Served asset /fullcalendar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2014-03-12 01:45:28 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.css" for 127.0.0.1 at 2014-03-12 01:54:51 -0500
+Served asset /fullcalendar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.js" for 127.0.0.1 at 2014-03-12 01:54:51 -0500
+Served asset /fullcalendar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2014-03-12 01:54:51 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateParties (20140312072535)
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (50.9ms)[0m  CREATE TABLE "parties" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "cost" decimal, "description" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20140312072535')[0m
+  [1m[35m (269.5ms)[0m  commit transaction
+Migrating to CreateExperiments (20140312072559)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  CREATE TABLE "experiments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "cost" decimal(5,2), "description" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20140312072559')[0m
+  [1m[35m (220.7ms)[0m  commit transaction
+Migrating to CreatePlaces (20140312072920)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  CREATE TABLE "places" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "address" varchar(255), "district_id" integer, "availability" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20140312072920')[0m
+  [1m[35m (207.5ms)[0m  commit transaction
+Migrating to CreateReservations (20140312073159)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateParties (20140312072535)
+Migrating to CreateExperiments (20140312072559)
+Migrating to CreatePlaces (20140312072920)
+Migrating to CreateReservations (20140312073159)
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  CREATE TABLE "reservations" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "cost" decimal(5,2), "avariability" integer, "date" datetime, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20140312073159')[0m
+  [1m[35m (202.9ms)[0m  commit transaction
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m

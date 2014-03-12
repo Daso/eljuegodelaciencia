@@ -61,6 +61,6 @@ module Eljuegodelaciencia
 
  # HPNeo fix 2
     config.assets.initialize_on_precompile = false
-    config.assets.precompile += %w(style.css cufon-yui.js)
+    config.assets.precompile += %w(style.css cufon-yui.js fullcalendar.css fullcalendar.js jquery.js)
   end
 end

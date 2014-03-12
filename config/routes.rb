@@ -1,4 +1,16 @@
 Eljuegodelaciencia::Application.routes.draw do
+  resources :reservations
+
+
+  resources :places
+
+
+  resources :experiments
+
+
+  resources :parties
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
