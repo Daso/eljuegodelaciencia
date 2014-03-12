@@ -42,6 +42,7 @@ GEM
     excon (0.16.10)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    fullcalendar-rails (1.6.4.0)
     heroku (2.33.5)
       heroku-api (~> 0.3.7)
       launchy (>= 0.3.2)
@@ -122,6 +123,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
+  fullcalendar-rails
   heroku
   jquery-rails
   pg

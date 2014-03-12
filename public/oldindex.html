@@ -184,6 +184,9 @@
         info.style.display = 'block'
       }
     </script>
+    <link rel='stylesheet' type='text/css' href='assets/fullcalendar.css' />
+<script type='text/javascript' src='assets/jquery.js'></script>
+<script type='text/javascript' src='assets/fullcalendar.js'></script>
   </head>
   <body>
     <div id="page">
@@ -206,7 +209,7 @@
           <h1>Welcome aboard</h1>
           <h2>You&rsquo;re riding Ruby on Rails!</h2>
         </div>
-
+<div id='calendar'></div>
         <div id="about">
           <h3><a href="rails/info/properties" onclick="about(); return false">About your application&rsquo;s environment</a></h3>
           <div id="about-content" style="display: none"></div>
@@ -239,3 +242,15 @@
     </div>
   </body>
 </html>
+<script type="text/javascript">
+$(document).ready(function() {
+
+    // page is now ready, initialize the calendar...
+
+    $('#calendar').fullCalendar({
+        events: 'http://www.google.com/calendar/feeds/kfhck8hfrecneho31q1ofug8u8%40group.calendar.google.com/public/basic',
+        dataType : 'jsonp'
+    });
+
+});
+</script>
