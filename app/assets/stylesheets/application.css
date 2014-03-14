@@ -16,3 +16,10 @@
  */
 
 
+.reservation_form{
+ width: 350px;
+ background-color: white;}
+
+.reservation_form input{
+  width: 100px;	
+}

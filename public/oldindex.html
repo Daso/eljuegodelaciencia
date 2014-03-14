@@ -187,6 +187,7 @@
     <link rel='stylesheet' type='text/css' href='assets/fullcalendar.css' />
 <script type='text/javascript' src='assets/jquery.js'></script>
 <script type='text/javascript' src='assets/fullcalendar.js'></script>
+<script type='text/javascript' src='fullcalendar/gcal.js'></script>
   </head>
   <body>
     <div id="page">
@@ -248,8 +249,9 @@ $(document).ready(function() {
     // page is now ready, initialize the calendar...
 
     $('#calendar').fullCalendar({
-        events: 'http://www.google.com/calendar/feeds/kfhck8hfrecneho31q1ofug8u8%40group.calendar.google.com/public/basic',
+        events:'http://www.google.com/calendar/feeds/kfhck8hfrecneho31q1ofug8u8%40group.calendar.google.com/public/basic',
         dataType : 'jsonp'
+        
     });
 
 });

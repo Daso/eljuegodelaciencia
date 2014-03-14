@@ -1,29 +1,17 @@
-<%= form_for(@reservation) do |f| %>
-  <% if @reservation.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@reservation.errors.count, "error") %> prohibited this reservation from being saved:</h2>
+<div class = "reservation_form">
+<%= simple_form_for(@reservation) do |f| %>
 
-      <ul>
-      <% @reservation.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
-      <% end %>
-      </ul>
-    </div>
-  <% end %>
+    <%= f.input :name %>
+    <%= f.input :last_name %>
+    <%= f.input :mail %>
+    <%= f.input :phone %>
+    <%= f.input :address %>
+    <%= f.input :date %>
+    <%= f.association :party %>
+    <%= f.association :experiments , as: :check_boxes %> 
 
-  <div class="field">
-    <%= f.label :cost %><br />
-    <%= f.text_field :cost %>
-  </div>
-  <div class="field">
-    <%= f.label :avariability %><br />
-    <%= f.number_field :avariability %>
-  </div>
-  <div class="field">
-    <%= f.label :date %><br />
-    <%= f.datetime_select :date %>
-  </div>
-  <div class="actions">
-    <%= f.submit %>
-  </div>
+    <br />
+    <%= f.button :submit %>
+
 <% end %>
+</div>

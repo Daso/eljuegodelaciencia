@@ -9,6 +9,7 @@ gem 'sqlite3', :group => [:test, :development]
 gem "pg", :group => [:production]
 gem "heroku"
 gem 'fullcalendar-rails'
+gem 'simple_form'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do

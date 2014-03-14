@@ -14,4 +14,5 @@
 //= require jquery_ujs
 //= require cufon-yui
 //= require fullcalendar
+//= require gcal
 //= require_tree .

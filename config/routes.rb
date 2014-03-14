@@ -1,4 +1,10 @@
 Eljuegodelaciencia::Application.routes.draw do
+  resources :reservation_experiments
+
+
+  resources :clients
+
+
   resources :reservations
 
 
