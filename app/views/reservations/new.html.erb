@@ -1,5 +1,15 @@
-<h1>New reservation</h1>
-
+<div id='calendar'></div>
 <%= render 'form' %>
+<script type="text/javascript">
+$(document).ready(function() {
 
-<%= link_to 'Back', reservations_path %>
+    // page is now ready, initialize the calendar...
+
+    $('#calendar').fullCalendar({
+        events:'http://www.google.com/calendar/feeds/kfhck8hfrecneho31q1ofug8u8%40group.calendar.google.com/public/basic',
+        dataType : 'jsonp'
+        
+    });
+
+});
+</script>
