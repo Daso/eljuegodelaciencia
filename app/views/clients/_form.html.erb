@@ -1,7 +1,7 @@
 <%= simple_form_for(@client) do |f| %>
-  <%= f.input :name %>
-  <%= f.input :last_name %>
-  <%= f.input :mail %>
-  <%= f.input :phone %>
+  <%= f.input :name, label: "Nombre: " %>
+  <%= f.input :last_name, label: "Apellido: "  %>
+  <%= f.input :mail, label: "e-mail: "  %>
+  <%= f.input :phone, label: "Teléfono: "  %>
   <%= f.button :submit %>
 <% end %>

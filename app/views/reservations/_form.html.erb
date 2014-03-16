@@ -1,17 +1,58 @@
 <div class = "reservation_form">
-<%= simple_form_for(@reservation) do |f| %>
-
-    <%= f.input :name %>
-    <%= f.input :last_name %>
-    <%= f.input :mail %>
-    <%= f.input :phone %>
-    <%= f.input :address %>
-    <%= f.input :date %>
-    <%= f.association :party %>
-    <%= f.association :experiments , as: :check_boxes %> 
+  <%= simple_form_for(@reservation) do |f| %>
+    <div class = "label">
+        <label for = "name">Nombre: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.input :name, label: false, wrapper_html: { class: "form_input" } %>
+    </div>
+    <div class = "label">
+        <label for = "last_name">Apellido: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.input :last_name, label: false, wrapper_html: { class: "form_input" } %>
+    </div>
+    <div class = "label">
+        <label for = "mail:">e-Mail: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.input :mail, label: false, wrapper_html: { class: "form_input" } %>
+    </div>
+    <div class = "label">
+        <label for = "phone">Teléfono: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.input :phone, label: false, wrapper_html: { class: "form_input" } %>
+    </div>
+    <div class = "label">
+        <label for = "address">Dirección: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.input :address, label: false, wrapper_html: { class: "form_input" } %>
+    </div>
+    <div class = "label">
+        <label for = "date">Fecha: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.input :date, label: false, wrapper_html: { class: "form_input" } %>
+    </div>
+    <div class = "label">
+        <label for = "party">Fiesta: </label>
+    </div>
+    <div class = "form_element"> 
+    <%= f.association :party , label: false , wrapper_html: { class: "form_input" }%>
+    </div>
+    <div class = "label">
+        <label for = "experiment">Experimentos: </label>
+    </div>
+    <br/>
+    <div class = "form_element"> 
+    <%= f.association :experiments , as: :check_boxes, label:  false %> 
+    </div>
+    <div class = "form_element"> 
 
     <br />
-    <%= f.button :submit %>
-
+    <%= f.submit "Reservar", :id => "button" %>
+    </div>
 <% end %>
 </div>
