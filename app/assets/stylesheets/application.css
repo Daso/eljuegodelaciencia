@@ -1,3 +1,5 @@
+/* @override http://localhost:3002/assets/application.css?body=1 */
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -22,31 +24,33 @@ background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
 margin:auto;
 position:relative;
 width:550px;
-height:450px;
 font-family: Tahoma, Geneva, sans-serif;
 font-size: 14px;
-font-style: italic;
+
 line-height: 24px;
 font-weight: bold;
-color: #FFFF00;
+color: #ffcb9b;
 text-decoration: none;
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 10px;
-padding:10px;
-border: 1px solid #999;
-border: inset 1px solid #333;
+padding:25px;
+border: 5px solid #333;
+border: inset 5px solid #333;
 -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 background-color: rgba(0,0,0,0.8);
 margin-top: 20px;
+margin-bottom: 2em;
 }
 
 .reservation_form h2{
-	font-size: 18px;
+	font-size: 22px;
 	font-size: bold;
-
+	font-family: 'Averia Sans Libre', cursive;
+	color: #ffe50e;
+	margin-bottom: 1em;
 }
 
 #button {
@@ -54,14 +58,15 @@ width:100px;
 position:absolute;
 right:20px;
 bottom:20px;
-background:#FFFF00;
-color:#000;
+background: #e38200;
+color: #feffff;
 font-family: Tahoma, Geneva, sans-serif;
 height:30px;
 -webkit-border-radius: 15px;
 -moz-border-radius: 15px;
 border-radius: 15px;
-border: 1p solid #999;
+border: 1px solid #ff9724;
+	text-transform: uppercase;
 }
 #button:hover {
 background:#fff;
@@ -71,7 +76,11 @@ color:#FFFF00;
 .label{
   width:100px;
   float:left;
-
+  margin-top: 8px;
+color: #fef4b7;
+font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
 }
 .form_element{
   
@@ -81,10 +90,27 @@ color:#FFFF00;
 
 
 .form_input input{
-   width: 180px;
+   width: 380px;
+   border: solid;
+   padding: 10px;
+	font-size: 14px;
+	color: #727272;
+}
+
+div.input.check_boxes.optional.reservation_experiments {
+	padding: 10px;
+	background-color: #3a3a3a;
+	margin-top: 20px !important;
+	display: block;
 }
 
 .checkbox{
    display: block;
+	margin-bottom: 10px;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
 
+.checkbox input {
+	margin-right: 10px;
 }

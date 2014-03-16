@@ -11,8 +11,9 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require jquery
+//= require jquery-ui
 //= require jquery_ujs
-//= require cufon-yui
 //= require fullcalendar
 //= require gcal
+//= require cufon-yui
 //= require_tree .

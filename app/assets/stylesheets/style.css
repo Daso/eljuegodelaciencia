@@ -1,33 +1,33 @@
+/* @override http://localhost:3002/assets/style.css?body=1 */
+
 /* Reset */
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
 
-body{
+html, body{
 margin:0;
 padding:0;
-background-image:url('/assets/background.jpg');
-background-size: 100% ; 
 font-family: Helvetica Neue, Helvetica, Arial;
+overflow: auto;
+    background-image:url('/assets/	background_2.jpg');
+background-size: cover; 
 }
 
 .container{
-width: 800px;
-margin: 0 auto;
+  width: 920px;
+  margin: 0px auto;
 }
 
 .header{
-width:636px;
-float: left;
-padding-top: 20px;
+  margin-top: 20px;
 }
 
 .mainlogo{
-width: 300px;
-height: 380px;
-background-image:url('/assets/logoMain.png');
- background-size: 100% ;
- margin-left: 135px;
-
+  width: 270px;
+  height: 340px;
+  background-image:url('/assets/logoMain.png');
+  background-size: 100%;
+  margin: 10px auto;
 }
 
 a.logo{
@@ -55,11 +55,13 @@ clear: both;
 
 ul.social
 {
-width: 109px;
-margin: 0 auto;
-height: 24px;
-padding-right: 85px;
-
+  width: 109px;
+  margin: 0 auto;
+  height: 24px;
+  padding-right: 85px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
 
 ul.social li{
@@ -124,27 +126,43 @@ height: 24px;
 }
 
 .video{
-width: 460px;
+width: 600px;
 /*height: 278px;*/
 background: url(/assets/video.png) left top no-repeat;
-margin-left: 80px;
-display:inline-block;
-vertical-align: top;
+margin: 0px auto;
+
 }
 
-.twitter_panel{
-display:inline-block;
+.twitter_panel iframe{
+	width: 600px;
+	margin: 2em auto !important;
+	display: block;	
 }
 
-.coming_soon{
-width: 550px;
-float: left;
+.coming_soon {
+	text-align: center;
+}
+
+.coming_soon p {
+	font-size: 27px;
+	line-height: 1.6em;
+	width: 80%;
+	margin: 0px auto;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: 'Averia Sans Libre', cursive;
+
+}
+
+.coming_soon p strong {
+	color: #ffd42a;
 }
 
 p{
 color: #fff;
 font-size: 16px;
 text-align: center;
+
 }
 
 .information{
