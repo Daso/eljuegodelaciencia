@@ -1,4 +1,4 @@
-(function($) {
+$(function($) {
 
 
   // page is now ready, initialize the calendar...
@@ -11,4 +11,4 @@
   }
 
 
-})(jQuery);
+});

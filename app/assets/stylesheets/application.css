@@ -114,3 +114,35 @@ div.input.check_boxes.optional.reservation_experiments {
 .checkbox input {
 	margin-right: 10px;
 }
+
+#calendar {
+	font-family: 'Averia Sans Libre', cursive;
+}
+
+div.fc-day-number {
+	color: #000;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#calendar table.fc-border-separate {
+	background-color: rgba(255,136,104,0.5);
+}
+
+#calendar .fc-first.fc-last {
+	background-color: #1a1719;
+	color: white;
+}
+
+#calendar th {
+	padding: 8px 10px;
+	border: none;
+}
+
+#calendar td {
+	border-color: #89573c;
+}
+
+#calendar td div {
+	height: 10px !important;
+}

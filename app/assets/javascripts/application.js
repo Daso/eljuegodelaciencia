@@ -16,4 +16,5 @@
 //= require fullcalendar
 //= require gcal
 //= require cufon-yui
-//= require_tree .
+// require_tree .
+//= require app
