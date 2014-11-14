@@ -30,6 +30,14 @@ background-size: cover;
   margin: 10px auto;
 }
 
+a.link{
+  color: #ffd42a !important; 
+}
+
+a.link:hover{
+ text-decoration: none !important; 
+}
+
 a.logo{
 width: 600px;
 margin: 0 auto 10px auto;

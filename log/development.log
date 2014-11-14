@@ -34370,3 +34370,633 @@ Served asset /reservations.css - 304 Not Modified (0ms)
 
 Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 21:23:34 -0500
 Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 21:44:56 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (2.7ms)
+Compiled jquery.js  (2ms)  (pid 4823)
+Compiled jquery-ui.js  (9ms)  (pid 4823)
+Compiled jquery_ujs.js  (0ms)  (pid 4823)
+Compiled fullcalendar.js  (26ms)  (pid 4823)
+Compiled gcal.js  (0ms)  (pid 4823)
+Compiled cufon-yui.js  (0ms)  (pid 4823)
+Compiled app.js  (0ms)  (pid 4823)
+Compiled application.js  (92ms)  (pid 4823)
+Compiled style.css  (0ms)  (pid 4823)
+Compiled fullcalendar.css  (0ms)  (pid 4823)
+Compiled fullcalendar.print.css  (0ms)  (pid 4823)
+Compiled clients.css  (4ms)  (pid 4823)
+Compiled experiments.css  (0ms)  (pid 4823)
+Compiled parties.css  (0ms)  (pid 4823)
+Compiled places.css  (0ms)  (pid 4823)
+Compiled reservation_experiments.css  (0ms)  (pid 4823)
+Compiled reservations.css  (0ms)  (pid 4823)
+Compiled scaffolds.css  (7ms)  (pid 4823)
+Compiled application.css  (42ms)  (pid 4823)
+Completed 200 OK in 292ms (Views: 291.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /jquery-ui.js - 304 Not Modified (25ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /clients.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /experiments.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /parties.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /places.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /reservations.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 21:44:57 -0500
+Served asset /scaffolds.css - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 21:56:51 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (3.5ms)
+Compiled jquery.js  (3ms)  (pid 4960)
+Compiled jquery-ui.js  (9ms)  (pid 4960)
+Compiled jquery_ujs.js  (0ms)  (pid 4960)
+Compiled fullcalendar.js  (1ms)  (pid 4960)
+Compiled gcal.js  (0ms)  (pid 4960)
+Compiled cufon-yui.js  (0ms)  (pid 4960)
+Compiled app.js  (0ms)  (pid 4960)
+Compiled application.js  (72ms)  (pid 4960)
+Compiled style.css  (0ms)  (pid 4960)
+Compiled fullcalendar.css  (0ms)  (pid 4960)
+Compiled fullcalendar.print.css  (0ms)  (pid 4960)
+Compiled clients.css  (4ms)  (pid 4960)
+Compiled experiments.css  (0ms)  (pid 4960)
+Compiled parties.css  (0ms)  (pid 4960)
+Compiled places.css  (0ms)  (pid 4960)
+Compiled reservation_experiments.css  (0ms)  (pid 4960)
+Compiled reservations.css  (0ms)  (pid 4960)
+Compiled scaffolds.css  (8ms)  (pid 4960)
+Compiled application.css  (48ms)  (pid 4960)
+Completed 200 OK in 372ms (Views: 371.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /jquery-ui.js - 304 Not Modified (57ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /experiments.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /clients.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /parties.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /places.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 21:56:52 -0500
+Served asset /reservations.css - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /jquery-ui.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /clients.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /parties.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /places.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 21:57:48 -0500
+Served asset /reservations.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 21:58:11 -0500
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 42ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /jquery-ui.js - 304 Not Modified (13ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /clients.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /parties.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /places.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /reservations.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 21:58:12 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 21:59:41 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (2.6ms)
+Compiled jquery.js  (3ms)  (pid 5085)
+Compiled jquery-ui.js  (9ms)  (pid 5085)
+Compiled jquery_ujs.js  (0ms)  (pid 5085)
+Compiled fullcalendar.js  (28ms)  (pid 5085)
+Compiled gcal.js  (0ms)  (pid 5085)
+Compiled cufon-yui.js  (0ms)  (pid 5085)
+Compiled app.js  (0ms)  (pid 5085)
+Compiled application.js  (98ms)  (pid 5085)
+Compiled style.css  (0ms)  (pid 5085)
+Compiled fullcalendar.css  (0ms)  (pid 5085)
+Compiled fullcalendar.print.css  (0ms)  (pid 5085)
+Compiled clients.css  (4ms)  (pid 5085)
+Compiled experiments.css  (0ms)  (pid 5085)
+Compiled parties.css  (0ms)  (pid 5085)
+Compiled places.css  (0ms)  (pid 5085)
+Compiled reservation_experiments.css  (0ms)  (pid 5085)
+Compiled reservations.css  (0ms)  (pid 5085)
+Compiled scaffolds.css  (9ms)  (pid 5085)
+Compiled application.css  (47ms)  (pid 5085)
+Completed 200 OK in 343ms (Views: 342.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /jquery-ui.js - 304 Not Modified (37ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /clients.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /parties.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /experiments.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /places.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /reservations.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 21:59:42 -0500
+Served asset /scaffolds.css - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (0.1ms)
+Compiled style.css  (0ms)  (pid 5085)
+Compiled application.css  (6ms)  (pid 5085)
+Completed 200 OK in 76ms (Views: 75.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /jquery-ui.js - 304 Not Modified (17ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /clients.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /parties.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /places.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /reservations.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 22:00:27 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 22:01:48 -0500
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (0.1ms)
+Compiled style.css  (0ms)  (pid 5085)
+Compiled application.css  (8ms)  (pid 5085)
+Completed 200 OK in 40ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 22:01:48 -0500
+Served asset /jquery-ui.js - 304 Not Modified (15ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /clients.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /parties.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /places.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /reservations.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 22:01:49 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 22:03:35 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (2.8ms)
+Compiled jquery.js  (2ms)  (pid 5224)
+Compiled jquery-ui.js  (9ms)  (pid 5224)
+Compiled jquery_ujs.js  (0ms)  (pid 5224)
+Compiled fullcalendar.js  (1ms)  (pid 5224)
+Compiled gcal.js  (0ms)  (pid 5224)
+Compiled cufon-yui.js  (0ms)  (pid 5224)
+Compiled app.js  (0ms)  (pid 5224)
+Compiled application.js  (68ms)  (pid 5224)
+Compiled style.css  (0ms)  (pid 5224)
+Compiled fullcalendar.css  (0ms)  (pid 5224)
+Compiled fullcalendar.print.css  (0ms)  (pid 5224)
+Compiled clients.css  (5ms)  (pid 5224)
+Compiled experiments.css  (0ms)  (pid 5224)
+Compiled parties.css  (0ms)  (pid 5224)
+Compiled places.css  (1ms)  (pid 5224)
+Compiled reservation_experiments.css  (0ms)  (pid 5224)
+Compiled reservations.css  (0ms)  (pid 5224)
+Compiled scaffolds.css  (8ms)  (pid 5224)
+Compiled application.css  (48ms)  (pid 5224)
+Completed 200 OK in 301ms (Views: 300.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /jquery-ui.js - 304 Not Modified (67ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (19ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /clients.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /parties.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /experiments.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /places.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /reservations.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 22:03:36 -0500
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /jquery-ui.js - 304 Not Modified (22ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /clients.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /places.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /parties.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /reservations.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 22:04:11 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 22:08:14 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (3.5ms)
+Compiled jquery.js  (2ms)  (pid 5328)
+Compiled jquery-ui.js  (10ms)  (pid 5328)
+Compiled jquery_ujs.js  (0ms)  (pid 5328)
+Compiled fullcalendar.js  (1ms)  (pid 5328)
+Compiled gcal.js  (0ms)  (pid 5328)
+Compiled cufon-yui.js  (0ms)  (pid 5328)
+Compiled app.js  (0ms)  (pid 5328)
+Compiled application.js  (73ms)  (pid 5328)
+Compiled style.css  (0ms)  (pid 5328)
+Compiled fullcalendar.css  (0ms)  (pid 5328)
+Compiled fullcalendar.print.css  (0ms)  (pid 5328)
+Compiled clients.css  (4ms)  (pid 5328)
+Compiled experiments.css  (0ms)  (pid 5328)
+Compiled parties.css  (0ms)  (pid 5328)
+Compiled places.css  (0ms)  (pid 5328)
+Compiled reservation_experiments.css  (0ms)  (pid 5328)
+Compiled reservations.css  (0ms)  (pid 5328)
+Compiled scaffolds.css  (5ms)  (pid 5328)
+Compiled application.css  (40ms)  (pid 5328)
+Completed 200 OK in 334ms (Views: 333.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /jquery-ui.js - 304 Not Modified (72ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /clients.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /experiments.css - 304 Not Modified (13ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /parties.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /places.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /reservations.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 22:08:15 -0500
+Served asset /scaffolds.css - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-13 22:13:46 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#landing as HTML
+  Rendered home/landing.html.erb within layouts/application (3.2ms)
+Compiled jquery.js  (2ms)  (pid 5423)
+Compiled jquery-ui.js  (9ms)  (pid 5423)
+Compiled jquery_ujs.js  (0ms)  (pid 5423)
+Compiled fullcalendar.js  (1ms)  (pid 5423)
+Compiled gcal.js  (0ms)  (pid 5423)
+Compiled cufon-yui.js  (0ms)  (pid 5423)
+Compiled app.js  (0ms)  (pid 5423)
+Compiled application.js  (73ms)  (pid 5423)
+Compiled style.css  (0ms)  (pid 5423)
+Compiled fullcalendar.css  (0ms)  (pid 5423)
+Compiled fullcalendar.print.css  (0ms)  (pid 5423)
+Compiled clients.css  (5ms)  (pid 5423)
+Compiled experiments.css  (0ms)  (pid 5423)
+Compiled parties.css  (0ms)  (pid 5423)
+Compiled places.css  (0ms)  (pid 5423)
+Compiled reservation_experiments.css  (0ms)  (pid 5423)
+Compiled reservations.css  (0ms)  (pid 5423)
+Compiled scaffolds.css  (6ms)  (pid 5423)
+Compiled application.css  (42ms)  (pid 5423)
+Completed 200 OK in 295ms (Views: 294.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /jquery-ui.js - 304 Not Modified (70ms)
+
+
+Started GET "/assets/fullcalendar.print.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /fullcalendar.print.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/clients.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /clients.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /experiments.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/parties.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /parties.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /places.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservation_experiments.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /reservation_experiments.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reservations.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /reservations.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-11-13 22:13:47 -0500
+Served asset /scaffolds.css - 200 OK (1ms)
