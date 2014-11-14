@@ -14,7 +14,7 @@ background-size: cover;
 }
 
 .container{
-  width: 920px;
+  width: 1200px;
   margin: 0px auto;
 }
 
@@ -149,7 +149,7 @@ margin: 0px auto;
 	width: 80%;
 	margin: 0px auto;
 	margin-bottom: 20px;
-	text-align: center;
+	text-align: left;
 	font-family: 'Averia Sans Libre', cursive;
 
 }
